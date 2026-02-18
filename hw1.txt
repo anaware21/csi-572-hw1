@@ -1,0 +1,9 @@
+Average Percent Overlap: 11.1%; Average Spearman Coefficient: -2.29
+
+Bing ended up performing worse than Google. Based off of these results,
+we see that Bing and Google return mostly different URLs for the queries. 
+For a majority of the searches, the links found by Bing varied greatly with the
+links provided by Google (low overlap). For search results with overlap, 
+the Spearman coefficient was always high, indicating that rankings had lots of 
+variance. In addition to this, Bing provided ~7 results for most queries, meaning 
+that matches would be sightly less common.
